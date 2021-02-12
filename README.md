@@ -1,6 +1,6 @@
 # RoostOne Freestyle Drone Frame
 
-![alt text](https://github.com/BRadFPV/RoostOne/blob/main/Screen%20Shot%202021-02-12%20at%201.32.28%20PM.png?raw=true)
+![alt text](https://github.com/BRadFPV/RoostOne/blob/main/RoostOne-render.png?raw=true)
 
 I couldn't resist combining the best! Introducing the RoostOne... a Rooster camera cage meshed with 18mm of slammed Source One goodness. I love the feel of the almost true X and tight CG.
 
